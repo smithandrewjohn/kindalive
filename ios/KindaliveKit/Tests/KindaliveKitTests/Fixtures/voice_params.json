@@ -1,0 +1,424 @@
+{
+  "cases": [
+    {
+      "emotions": {
+        "anger": 0.824162,
+        "anxiety": 0.608755,
+        "bonding": 0.241052,
+        "calm": 0.207341,
+        "euphoria": 0.810005,
+        "excitement": 0.378939,
+        "happiness": 0.375303,
+        "sadness": 0.897605
+      },
+      "pitch": 0.9,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.170599,
+        "anxiety": 0.767084,
+        "bonding": 0.978345,
+        "calm": 0.384563,
+        "euphoria": 0.706767,
+        "excitement": 0.590621,
+        "happiness": 0.070241,
+        "sadness": 0.203023
+      },
+      "pitch": 0.94,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.273185,
+        "anxiety": 0.067583,
+        "bonding": 0.157161,
+        "calm": 0.794145,
+        "euphoria": 0.778914,
+        "excitement": 0.154532,
+        "happiness": 0.539216,
+        "sadness": 0.807643
+      },
+      "pitch": 1.13,
+      "rate": 1.17
+    },
+    {
+      "emotions": {
+        "anger": 0.559341,
+        "anxiety": 0.174017,
+        "bonding": 0.009501,
+        "calm": 0.470836,
+        "euphoria": 0.261266,
+        "excitement": 0.864205,
+        "happiness": 0.658678,
+        "sadness": 0.421452
+      },
+      "pitch": 1.1,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.979136,
+        "anxiety": 0.279714,
+        "bonding": 0.547578,
+        "calm": 0.241232,
+        "euphoria": 0.581982,
+        "excitement": 0.461087,
+        "happiness": 0.545722,
+        "sadness": 0.554208
+      },
+      "pitch": 1.09,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.630097,
+        "anxiety": 0.151103,
+        "bonding": 0.171072,
+        "calm": 0.134184,
+        "euphoria": 0.799794,
+        "excitement": 0.076332,
+        "happiness": 0.320216,
+        "sadness": 0.851315
+      },
+      "pitch": 1.04,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.273285,
+        "anxiety": 0.295829,
+        "bonding": 0.845747,
+        "calm": 0.86764,
+        "euphoria": 0.504382,
+        "excitement": 0.666925,
+        "happiness": 0.542542,
+        "sadness": 0.756359
+      },
+      "pitch": 1.0,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.844226,
+        "anxiety": 0.210347,
+        "bonding": 0.796589,
+        "calm": 0.747606,
+        "euphoria": 0.793724,
+        "excitement": 0.758152,
+        "happiness": 0.994654,
+        "sadness": 0.733183
+      },
+      "pitch": 1.25,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.143067,
+        "anxiety": 0.301038,
+        "bonding": 0.123175,
+        "calm": 0.980817,
+        "euphoria": 0.236032,
+        "excitement": 0.593744,
+        "happiness": 0.010852,
+        "sadness": 0.212635
+      },
+      "pitch": 0.92,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.793798,
+        "anxiety": 0.711022,
+        "bonding": 0.052766,
+        "calm": 0.130889,
+        "euphoria": 0.055084,
+        "excitement": 0.913727,
+        "happiness": 0.289384,
+        "sadness": 0.647108
+      },
+      "pitch": 0.7,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.139952,
+        "anxiety": 0.109543,
+        "bonding": 0.753291,
+        "calm": 0.86038,
+        "euphoria": 0.548275,
+        "excitement": 0.97907,
+        "happiness": 0.41483,
+        "sadness": 0.779008
+      },
+      "pitch": 1.02,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.678962,
+        "anxiety": 0.506301,
+        "bonding": 0.920387,
+        "calm": 0.610995,
+        "euphoria": 0.791373,
+        "excitement": 0.233619,
+        "happiness": 0.426861,
+        "sadness": 0.645063
+      },
+      "pitch": 1.02,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.873357,
+        "anxiety": 0.35136,
+        "bonding": 0.057923,
+        "calm": 0.329029,
+        "euphoria": 0.959418,
+        "excitement": 0.078628,
+        "happiness": 0.365237,
+        "sadness": 0.209978
+      },
+      "pitch": 1.23,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.054667,
+        "anxiety": 0.980703,
+        "bonding": 0.02695,
+        "calm": 0.805678,
+        "euphoria": 0.197164,
+        "excitement": 0.624853,
+        "happiness": 0.196706,
+        "sadness": 0.602532
+      },
+      "pitch": 0.7,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.784545,
+        "anxiety": 0.783789,
+        "bonding": 0.42658,
+        "calm": 0.499263,
+        "euphoria": 0.172248,
+        "excitement": 0.188248,
+        "happiness": 0.524997,
+        "sadness": 0.947813
+      },
+      "pitch": 0.7,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.149307,
+        "anxiety": 0.853143,
+        "bonding": 0.758247,
+        "calm": 0.299811,
+        "euphoria": 0.86382,
+        "excitement": 0.083428,
+        "happiness": 0.544666,
+        "sadness": 0.58459
+      },
+      "pitch": 0.99,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.139858,
+        "anxiety": 0.2075,
+        "bonding": 0.419665,
+        "calm": 0.85235,
+        "euphoria": 0.064783,
+        "excitement": 0.18332,
+        "happiness": 0.292667,
+        "sadness": 0.363409
+      },
+      "pitch": 0.94,
+      "rate": 1.19
+    },
+    {
+      "emotions": {
+        "anger": 0.816043,
+        "anxiety": 0.622148,
+        "bonding": 0.772975,
+        "calm": 0.605308,
+        "euphoria": 0.793827,
+        "excitement": 0.678236,
+        "happiness": 0.377332,
+        "sadness": 0.480255
+      },
+      "pitch": 1.02,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.736234,
+        "anxiety": 0.582155,
+        "bonding": 0.736026,
+        "calm": 0.107235,
+        "euphoria": 0.637537,
+        "excitement": 0.184825,
+        "happiness": 0.454002,
+        "sadness": 0.30491
+      },
+      "pitch": 1.06,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.4345,
+        "anxiety": 0.249885,
+        "bonding": 0.314485,
+        "calm": 0.966829,
+        "euphoria": 0.68578,
+        "excitement": 0.481885,
+        "happiness": 0.289279,
+        "sadness": 0.151458
+      },
+      "pitch": 1.17,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.251016,
+        "anxiety": 0.296648,
+        "bonding": 0.669974,
+        "calm": 0.650276,
+        "euphoria": 0.974378,
+        "excitement": 0.696263,
+        "happiness": 0.165969,
+        "sadness": 0.362618
+      },
+      "pitch": 1.14,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.378559,
+        "anxiety": 0.560897,
+        "bonding": 0.809265,
+        "calm": 0.768969,
+        "euphoria": 0.971485,
+        "excitement": 0.811768,
+        "happiness": 0.83558,
+        "sadness": 0.270646
+      },
+      "pitch": 1.29,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.901871,
+        "anxiety": 0.856432,
+        "bonding": 0.332339,
+        "calm": 0.710229,
+        "euphoria": 0.792901,
+        "excitement": 0.601151,
+        "happiness": 0.948501,
+        "sadness": 0.050735
+      },
+      "pitch": 1.25,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.295063,
+        "anxiety": 0.01424,
+        "bonding": 0.293706,
+        "calm": 0.254076,
+        "euphoria": 0.411022,
+        "excitement": 0.079326,
+        "happiness": 0.338194,
+        "sadness": 0.330408
+      },
+      "pitch": 1.12,
+      "rate": 1.14
+    },
+    {
+      "emotions": {
+        "anger": 0.352758,
+        "anxiety": 0.440368,
+        "bonding": 0.809799,
+        "calm": 0.081242,
+        "euphoria": 0.67912,
+        "excitement": 0.4012,
+        "happiness": 0.063733,
+        "sadness": 0.225147
+      },
+      "pitch": 1.02,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.631288,
+        "anxiety": 0.434218,
+        "bonding": 0.074782,
+        "calm": 0.377034,
+        "euphoria": 0.389075,
+        "excitement": 0.463636,
+        "happiness": 0.122919,
+        "sadness": 0.458481
+      },
+      "pitch": 0.89,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.160054,
+        "anxiety": 0.820064,
+        "bonding": 0.013838,
+        "calm": 0.800077,
+        "euphoria": 0.158879,
+        "excitement": 0.369643,
+        "happiness": 0.985753,
+        "sadness": 0.991203
+      },
+      "pitch": 0.8,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.917958,
+        "anxiety": 0.461595,
+        "bonding": 0.323378,
+        "calm": 0.696583,
+        "euphoria": 0.915855,
+        "excitement": 0.873572,
+        "happiness": 0.403251,
+        "sadness": 0.591742
+      },
+      "pitch": 1.08,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.307239,
+        "anxiety": 0.427633,
+        "bonding": 0.542124,
+        "calm": 0.98761,
+        "euphoria": 0.547744,
+        "excitement": 0.548003,
+        "happiness": 0.652453,
+        "sadness": 0.751108
+      },
+      "pitch": 1.01,
+      "rate": 1.3
+    },
+    {
+      "emotions": {
+        "anger": 0.47146,
+        "anxiety": 0.922892,
+        "bonding": 0.276927,
+        "calm": 0.510449,
+        "euphoria": 0.101081,
+        "excitement": 0.384458,
+        "happiness": 0.638427,
+        "sadness": 0.728124
+      },
+      "pitch": 0.73,
+      "rate": 1.3
+    }
+  ]
+}

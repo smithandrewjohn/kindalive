@@ -699,6 +699,15 @@ This text output format is designed to map directly to a VLA (Vision-Language-Ac
 - **Text tone modifier** — adjust language generation style based on dominant emotion
 - **LED/display** — map emotions to colors, patterns, animations
 
+### Native iOS Port
+
+A native iOS app under `ios/` reimplements this architecture in Swift
+(`KindaliveKit`), with Apple's on-device Foundation Models framework
+replacing the cloud LLM interpreter. This document remains the source of
+truth for every formula; the Swift port is a transcription locked to the
+Python engine by golden fixtures (`scripts/generate_swift_fixtures.py`).
+See `docs/ios-app.md`.
+
 ---
 
 ## Layer 5a: Facial Muscle Projection (the LED face)

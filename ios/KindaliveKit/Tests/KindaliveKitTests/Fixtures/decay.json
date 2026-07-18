@@ -1,0 +1,3140 @@
+{
+  "cases": [
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 8.664214640241585e-06,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 8.663088697719035e-05,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.00017323675758577073,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.0012623303344928337,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.010219101322546319,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.08786796564403572,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.2625,
+      "half_life": 1200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.05000722017886687,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.05007219240581433,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.05014436396465481,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.0510519419454107,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.0585159177687886,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.12322330470336311,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.26875,
+      "half_life": 1200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.25000144403577335,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.25001443848116284,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.25002887279293096,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.25021038838908216,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.2517031835537577,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.2646446609406726,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.29375,
+      "half_life": 1200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.5999913357853597,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.5999133691130227,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.5998267632424142,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.5987376696655071,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.5897808986774536,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.5121320343559642,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.33749999999999997,
+      "half_life": 1200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.8999826715707195,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.8998267382260456,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.8996535264848284,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.8974753393310143,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.8795617973549074,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.7242640687119285,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.3749999999999999,
+      "half_life": 1200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.9999797834991728,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.99979786126372,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.9995957808989665,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.9970545625528501,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.9761554302473919,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.7949747468305833,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.38750000000000007,
+      "half_life": 1200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.05,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 0.5,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 1.0,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 7.3,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 60.0,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 600.0,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "dopamine",
+      "dt": 3600.0,
+      "expected_level": 0.3,
+      "half_life": 1200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 1.2033790736665217e-06,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 1.203366040675169e-05,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 2.4067031195507127e-05,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.00017566269157315295,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.001441973332705404,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.01423402942319707,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.07955179237314275,
+      "half_life": 14400.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.0500010830411663,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.05001083029436608,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.05002166032807596,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.05015809642241584,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.051297775999434865,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.06281062648087736,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.12159661313582848,
+      "half_life": 14400.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.25000060168953686,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.2500060168302034,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.25001203351559775,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.2500878313457866,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.2507209866663527,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.25711701471159853,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.2897758961865714,
+      "half_life": 14400.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.5999997593241853,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.5999975932679187,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.5999951865937608,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.5999648674616853,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.5997116053334589,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.5971531941153606,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.5840896415253715,
+      "half_life": 14400.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.8999990372967411,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.8999903730716746,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.8999807463750437,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.8998594698467415,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.8988464213338357,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.8886127764614423,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.8363585661014858,
+      "half_life": 14400.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.9999987966209263,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.9999879663395932,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.9999759329688045,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.9998243373084268,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.9985580266672947,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.9857659705768029,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.9204482076268572,
+      "half_life": 14400.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.05,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 0.5,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 1.0,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 7.3,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 60.0,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 600.0,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.5,
+      "chemical": "serotonin",
+      "dt": 3600.0,
+      "expected_level": 0.5,
+      "half_life": 14400.0,
+      "start_level": 0.5
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 3.850780598013692e-06,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 3.850446973650002e-05,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 7.700152650207404e-05,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.0005614298931577278,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.004568006313150819,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.04125989480318004,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.15000000000000002,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.05000288808544851,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.05002887835230238,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.05005775114487656,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.0504210724198683,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.053426004734863114,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.08094492110238503,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.16250000000000003,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.24999903730485049,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.24999037388256587,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.2499807496183745,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.24985964252671056,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.2488579984217123,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.239685026299205,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.21250000000000002,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.599992298438804,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.5999229910605269,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.5998459969469958,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.5988771402136845,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.5908639873736984,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.5174802103936399,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.3,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.899986522267907,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.8998652343559222,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.8997304946572428,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.8980349953739479,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.8840119779039721,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.7555903681888698,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.3750000000000001,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.999984596877608,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.999845982121054,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.9996919938939917,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.9977542804273691,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.9817279747473967,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.8349604207872798,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.3999999999999999,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.05,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 0.5,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 1.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 7.3,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 60.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 600.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "oxytocin",
+      "dt": 3600.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 1.4440531506565435e-06,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 1.4440218717304275e-05,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 2.8879742368237425e-05,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.0002107582010303366,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.0017278728547358124,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.01683770619549194,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.08786796564403572,
+      "half_life": 7200.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.05000120337762555,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.050012033515597756,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.050024066451973534,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.05017563183419195,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.05143989404561318,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.06403142182957662,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.12322330470336311,
+      "half_life": 7200.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.2500002406755251,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.2500024067031196,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.2500048132903947,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.2500351263668384,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.2502879788091226,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.25280628436591535,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.2646446609406726,
+      "half_life": 7200.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.5999985559468494,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.5999855597812827,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.5999711202576318,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.5997892417989696,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.5982721271452641,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.583162293804508,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.5121320343559642,
+      "half_life": 7200.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.8999971118936987,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.8999711195625654,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.8999422405152635,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.8995784835979393,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.8965442542905284,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.8663245876090161,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.7242640687119285,
+      "half_life": 7200.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.9999966305426484,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.9999663061563263,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.9999326139344741,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.9995082308642625,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.9959682966722831,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.9607120188771855,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.7949747468305833,
+      "half_life": 7200.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.05,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 0.5,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 1.0,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 7.3,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 60.0,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 600.0,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.3,
+      "chemical": "testosterone",
+      "dt": 3600.0,
+      "expected_level": 0.3,
+      "half_life": 7200.0,
+      "start_level": 0.3
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 1.925399566915509e-06,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 1.9253161578824952e-05,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 3.850446973650002e-05,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.0002809122257753316,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.00229719592942077,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.021820256371932148,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.1,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.05000144404967519,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.05001443987118412,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.05002887835230238,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.0502106841693315,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.05172289694706558,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.06636519227894912,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.125,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.24999951865010828,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.2499951867096053,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.24999037388256587,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.24992977194355617,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.2494257010176448,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.24454493590701695,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.225,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.5999961492008662,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.5999614936768424,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.5999229910605269,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.5994381755484494,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.5954056081411584,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.5563594872561357,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.8999932611015158,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.8999326139344741,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.8998652343559222,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.8990168072097864,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.8919598142470273,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.8236291026982375,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.55,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.9999922984017323,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.9999229873536847,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.999845982121054,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.9988763510968987,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.9908112162823169,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.9127189745122715,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.6,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.05,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 0.5,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 1.0,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 7.3,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 60.0,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 600.0,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "cortisol",
+      "dt": 3600.0,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 1.925223486825001e-05,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.00019235564243712535,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.0003843412779424793,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.0027719532166267215,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.02062994740159002,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.09007874342519875,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.09999990463256836,
+      "half_life": 180.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.050009626117434126,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.050096177821218564,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.050192170638971245,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.051385976608313365,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.06031497370079501,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.09503937171259938,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.09999995231628418,
+      "half_life": 180.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.24997112164769764,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.24971146653634432,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.2494234880830863,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.2458420701750599,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.21905507889761497,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.11488188486220188,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.10000014305114746,
+      "half_life": 180.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.5999037388256587,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.5990382217878143,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.5980782936102875,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.5861402339168664,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.4968502629920499,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.14960628287400624,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.10000047683715818,
+      "half_life": 180.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.899845982121054,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.898461154860503,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.8969252697764601,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.8778243742669862,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.7349604207872799,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.17937005259841,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.10000076293945315,
+      "half_life": 180.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.9998267298861857,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.9982687992180659,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.9965409284985177,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.9750524210503595,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.8143304733856898,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.18929130917321124,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.10000085830688477,
+      "half_life": 180.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.05,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 0.5,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 1.0,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 7.3,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 60.0,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 600.0,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.1,
+      "chemical": "adrenaline",
+      "dt": 3600.0,
+      "expected_level": 0.1,
+      "half_life": 180.0,
+      "start_level": 0.1
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 3.850780598013692e-06,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 3.850446973650002e-05,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 7.700152650207404e-05,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.0005614298931577278,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.004568006313150819,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.04125989480318004,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.15000000000000002,
+      "half_life": 1800.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.05000288808544851,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.05002887835230238,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.05005775114487656,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.0504210724198683,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.053426004734863114,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.08094492110238503,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.16250000000000003,
+      "half_life": 1800.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.24999903730485049,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.24999037388256587,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.2499807496183745,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.24985964252671056,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.2488579984217123,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.239685026299205,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.21250000000000002,
+      "half_life": 1800.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.599992298438804,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.5999229910605269,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.5998459969469958,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.5988771402136845,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.5908639873736984,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.5174802103936399,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.3,
+      "half_life": 1800.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.899986522267907,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.8998652343559222,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.8997304946572428,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.8980349953739479,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.8840119779039721,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.7555903681888698,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.3750000000000001,
+      "half_life": 1800.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.999984596877608,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.999845982121054,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.9996919938939917,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.9977542804273691,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.9817279747473967,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.8349604207872798,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.3999999999999999,
+      "half_life": 1800.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.05,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 0.5,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 1.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 7.3,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 60.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 600.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.2,
+      "chemical": "endorphins",
+      "dt": 3600.0,
+      "expected_level": 0.2,
+      "half_life": 1800.0,
+      "start_level": 0.2
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 3.850799133831018e-06,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 3.8506323157649905e-05,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 7.700893947300004e-05,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.0005618244515506632,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.00459439185884154,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.043640512743864296,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.2,
+      "half_life": 3600.0,
+      "start_level": 0.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.05000336944924211,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.05003369303276295,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.050067382822038875,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.050491596395106836,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.05402009287648635,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.08818544865088127,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.22500000000000003,
+      "half_life": 3600.0,
+      "start_level": 0.05
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.25000144404967517,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.2500144398711841,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.25002887835230236,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.2502106841693315,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.25172289694706557,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.2663651922789491,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.325,
+      "half_life": 3600.0,
+      "start_level": 0.25
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.5999980746004331,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.5999807468384212,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.5999614955302635,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.5997190877742247,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.5977028040705792,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.5781797436280678,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.5,
+      "half_life": 3600.0,
+      "start_level": 0.6
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.8999951865010827,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.8999518670960529,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.8999037388256588,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.8992977194355617,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.8942570101764481,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.8454493590701697,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.65,
+      "half_life": 3600.0,
+      "start_level": 0.9
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.9999942238012992,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.9999422405152635,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.9998844865907905,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.999157263322674,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.9931084122117377,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.9345392308842035,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.7,
+      "half_life": 3600.0,
+      "start_level": 1.0
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.05,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 0.5,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 1.0,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 7.3,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 60.0,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 600.0,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    },
+    {
+      "baseline": 0.4,
+      "chemical": "gaba",
+      "dt": 3600.0,
+      "expected_level": 0.4,
+      "half_life": 3600.0,
+      "start_level": 0.4
+    }
+  ]
+}

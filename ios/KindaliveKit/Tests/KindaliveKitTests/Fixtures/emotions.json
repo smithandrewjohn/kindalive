@@ -1,0 +1,1738 @@
+{
+  "cases": [
+    {
+      "expected": {
+        "anger": 0.2711552,
+        "anxiety": 0.2447343,
+        "bonding": 0.21788390000000002,
+        "calm": 0.24584409999999995,
+        "euphoria": 0.5365898,
+        "excitement": 0.7545392000000001,
+        "happiness": 0.31722425,
+        "sadness": 0.48047100000000004
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.352223,
+          "cortisol": 0.276545,
+          "dopamine": 0.47404,
+          "endorphins": 0.149168,
+          "gaba": 0.359894,
+          "oxytocin": 0.4692,
+          "serotonin": 0.312114,
+          "testosterone": 0.380737
+        },
+        "levels": {
+          "adrenaline": 0.746129,
+          "cortisol": 0.573519,
+          "dopamine": 0.988677,
+          "endorphins": 0.050015,
+          "gaba": 0.935725,
+          "oxytocin": 0.378782,
+          "serotonin": 0.061633,
+          "testosterone": 0.363721
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.16326320000000005,
+        "anxiety": 0.0,
+        "bonding": 0.4490613,
+        "calm": 0.68216615,
+        "euphoria": 0.36727299999999996,
+        "excitement": 0.5187986,
+        "happiness": 0.54674455,
+        "sadness": 0.14070539999999998
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.264335,
+          "cortisol": 0.241648,
+          "dopamine": 0.295371,
+          "endorphins": 0.309024,
+          "gaba": 0.304672,
+          "oxytocin": 0.197449,
+          "serotonin": 0.250322,
+          "testosterone": 0.380152
+        },
+        "levels": {
+          "adrenaline": 0.156456,
+          "cortisol": 0.234509,
+          "dopamine": 0.771224,
+          "endorphins": 0.046726,
+          "gaba": 0.926885,
+          "oxytocin": 0.452984,
+          "serotonin": 0.710747,
+          "testosterone": 0.892325
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.3133585,
+        "anxiety": 0.32366785000000003,
+        "bonding": 0.1032311,
+        "calm": 0.0,
+        "euphoria": 0.2679187,
+        "excitement": 0.29506384999999996,
+        "happiness": 0.11691389999999999,
+        "sadness": 0.7501099999999999
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.465126,
+          "cortisol": 0.317551,
+          "dopamine": 0.349925,
+          "endorphins": 0.281837,
+          "gaba": 0.474418,
+          "oxytocin": 0.370753,
+          "serotonin": 0.407466,
+          "testosterone": 0.26469
+        },
+        "levels": {
+          "adrenaline": 0.080308,
+          "cortisol": 0.86103,
+          "dopamine": 0.654959,
+          "endorphins": 0.10485,
+          "gaba": 0.213504,
+          "oxytocin": 0.119572,
+          "serotonin": 0.074917,
+          "testosterone": 0.148448
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.4060102,
+        "anxiety": 0.40393085,
+        "bonding": 0.6093488,
+        "calm": 0.09371615000000003,
+        "euphoria": 0.5878763,
+        "excitement": 0.45601015,
+        "happiness": 0.43421594999999996,
+        "sadness": 0.5018924
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.165359,
+          "cortisol": 0.12977,
+          "dopamine": 0.181743,
+          "endorphins": 0.103509,
+          "gaba": 0.348251,
+          "oxytocin": 0.482364,
+          "serotonin": 0.419885,
+          "testosterone": 0.213342
+        },
+        "levels": {
+          "adrenaline": 0.379719,
+          "cortisol": 0.823056,
+          "dopamine": 0.804108,
+          "endorphins": 0.340587,
+          "gaba": 0.00816,
+          "oxytocin": 0.84262,
+          "serotonin": 0.399738,
+          "testosterone": 0.018494
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.43421275000000004,
+        "anxiety": 0.31376785000000007,
+        "bonding": 0.36787549999999997,
+        "calm": 0.17786079999999999,
+        "euphoria": 0.42066420000000004,
+        "excitement": 0.4377291,
+        "happiness": 0.4846132499999998,
+        "sadness": 0.4474548
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.111362,
+          "cortisol": 0.199975,
+          "dopamine": 0.167937,
+          "endorphins": 0.270771,
+          "gaba": 0.27977,
+          "oxytocin": 0.311884,
+          "serotonin": 0.330523,
+          "testosterone": 0.1765
+        },
+        "levels": {
+          "adrenaline": 0.014684,
+          "cortisol": 0.682054,
+          "dopamine": 0.899066,
+          "endorphins": 0.34914,
+          "gaba": 0.042319,
+          "oxytocin": 0.216328,
+          "serotonin": 0.632945,
+          "testosterone": 0.582241
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.6526512999999999,
+        "anxiety": 0.6066541,
+        "bonding": 0.3502833,
+        "calm": 0.0,
+        "euphoria": 0.6188395999999999,
+        "excitement": 0.72698235,
+        "happiness": 0.3169613499999999,
+        "sadness": 0.27759179999999994
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.496707,
+          "cortisol": 0.371213,
+          "dopamine": 0.317182,
+          "endorphins": 0.326439,
+          "gaba": 0.304161,
+          "oxytocin": 0.105443,
+          "serotonin": 0.404329,
+          "testosterone": 0.425267
+        },
+        "levels": {
+          "adrenaline": 0.871148,
+          "cortisol": 0.267929,
+          "dopamine": 0.467289,
+          "endorphins": 0.808087,
+          "gaba": 0.008146,
+          "oxytocin": 0.309986,
+          "serotonin": 0.112243,
+          "testosterone": 0.857073
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.5329113999999999,
+        "anxiety": 0.46897564999999997,
+        "bonding": 0.6621286,
+        "calm": 0.11497295000000002,
+        "euphoria": 0.6327984,
+        "excitement": 0.43469675,
+        "happiness": 0.4854485999999999,
+        "sadness": 0.5802006
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.178014,
+          "cortisol": 0.236999,
+          "dopamine": 0.164365,
+          "endorphins": 0.244578,
+          "gaba": 0.424996,
+          "oxytocin": 0.215434,
+          "serotonin": 0.253674,
+          "testosterone": 0.487433
+        },
+        "levels": {
+          "adrenaline": 0.476569,
+          "cortisol": 0.967001,
+          "dopamine": 0.538438,
+          "endorphins": 0.939666,
+          "gaba": 0.013792,
+          "oxytocin": 0.470267,
+          "serotonin": 0.796873,
+          "testosterone": 0.158937
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.44322200000000006,
+        "anxiety": 0.2687931500000001,
+        "bonding": 0.8320478,
+        "calm": 0.56761525,
+        "euphoria": 0.5830998000000001,
+        "excitement": 0.4518601000000001,
+        "happiness": 0.43080659999999993,
+        "sadness": 0.5059433
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.378478,
+          "cortisol": 0.126202,
+          "dopamine": 0.126882,
+          "endorphins": 0.379428,
+          "gaba": 0.18717,
+          "oxytocin": 0.232278,
+          "serotonin": 0.370034,
+          "testosterone": 0.195258
+        },
+        "levels": {
+          "adrenaline": 0.700941,
+          "cortisol": 0.747283,
+          "dopamine": 0.011735,
+          "endorphins": 0.983731,
+          "gaba": 0.867286,
+          "oxytocin": 0.721359,
+          "serotonin": 0.915407,
+          "testosterone": 0.661647
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.2164621,
+        "anxiety": 0.10226305000000005,
+        "bonding": 0.2313893,
+        "calm": 0.33725004999999997,
+        "euphoria": 0.33039999999999997,
+        "excitement": 0.43605009999999994,
+        "happiness": 0.41152064999999993,
+        "sadness": 0.4800624
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.446014,
+          "cortisol": 0.378673,
+          "dopamine": 0.336039,
+          "endorphins": 0.325657,
+          "gaba": 0.273944,
+          "oxytocin": 0.459904,
+          "serotonin": 0.299331,
+          "testosterone": 0.48501
+        },
+        "levels": {
+          "adrenaline": 0.078883,
+          "cortisol": 0.576024,
+          "dopamine": 0.902145,
+          "endorphins": 0.064077,
+          "gaba": 0.524049,
+          "oxytocin": 0.123784,
+          "serotonin": 0.522273,
+          "testosterone": 0.42401
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.3641741499999999,
+        "anxiety": 0.2548504,
+        "bonding": 0.4095953,
+        "calm": 0.30794404999999997,
+        "euphoria": 0.7253775,
+        "excitement": 0.8513972499999999,
+        "happiness": 0.49602199999999996,
+        "sadness": 0.1798722
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.468619,
+          "cortisol": 0.15961,
+          "dopamine": 0.30315,
+          "endorphins": 0.219605,
+          "gaba": 0.161498,
+          "oxytocin": 0.289312,
+          "serotonin": 0.343888,
+          "testosterone": 0.485843
+        },
+        "levels": {
+          "adrenaline": 0.838594,
+          "cortisol": 0.196461,
+          "dopamine": 0.848937,
+          "endorphins": 0.735488,
+          "gaba": 0.885813,
+          "oxytocin": 0.411656,
+          "serotonin": 0.188899,
+          "testosterone": 0.88451
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.2883083,
+        "anxiety": 0.14715630000000007,
+        "bonding": 0.3933073,
+        "calm": 0.3980842,
+        "euphoria": 0.6868375,
+        "excitement": 0.71924255,
+        "happiness": 0.5247923999999999,
+        "sadness": 0.20442060000000004
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.261157,
+          "cortisol": 0.213921,
+          "dopamine": 0.177459,
+          "endorphins": 0.499189,
+          "gaba": 0.393657,
+          "oxytocin": 0.313633,
+          "serotonin": 0.333946,
+          "testosterone": 0.233659
+        },
+        "levels": {
+          "adrenaline": 0.54117,
+          "cortisol": 0.269369,
+          "dopamine": 0.850787,
+          "endorphins": 0.922344,
+          "gaba": 0.932393,
+          "oxytocin": 0.233321,
+          "serotonin": 0.30726,
+          "testosterone": 0.889703
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.33732585000000004,
+        "anxiety": 0.27809744999999997,
+        "bonding": 0.35270290000000004,
+        "calm": 0.19958710000000002,
+        "euphoria": 0.3995574,
+        "excitement": 0.3427774,
+        "happiness": 0.16067974999999998,
+        "sadness": 0.4418626
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.305364,
+          "cortisol": 0.307242,
+          "dopamine": 0.116874,
+          "endorphins": 0.411902,
+          "gaba": 0.154191,
+          "oxytocin": 0.141212,
+          "serotonin": 0.393849,
+          "testosterone": 0.381385
+        },
+        "levels": {
+          "adrenaline": 0.389857,
+          "cortisol": 0.602641,
+          "dopamine": 0.184149,
+          "endorphins": 0.674721,
+          "gaba": 0.568708,
+          "oxytocin": 0.319625,
+          "serotonin": 0.193154,
+          "testosterone": 0.514448
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.16705995,
+        "anxiety": 0.009163899999999989,
+        "bonding": 0.8245346,
+        "calm": 0.67008855,
+        "euphoria": 0.8418211999999999,
+        "excitement": 0.7490729,
+        "happiness": 0.7939190999999999,
+        "sadness": 0.1540092
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.467765,
+          "cortisol": 0.168069,
+          "dopamine": 0.192227,
+          "endorphins": 0.286734,
+          "gaba": 0.325396,
+          "oxytocin": 0.244283,
+          "serotonin": 0.249862,
+          "testosterone": 0.444503
+        },
+        "levels": {
+          "adrenaline": 0.683339,
+          "cortisol": 0.256682,
+          "dopamine": 0.985125,
+          "endorphins": 0.751775,
+          "gaba": 0.990465,
+          "oxytocin": 0.920417,
+          "serotonin": 0.713237,
+          "testosterone": 0.483883
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.5504388,
+        "anxiety": 0.5338621000000001,
+        "bonding": 0.6551975999999999,
+        "calm": 0.1096231,
+        "euphoria": 0.6651219,
+        "excitement": 0.5090612,
+        "happiness": 0.3316762499999999,
+        "sadness": 0.6190014
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.250859,
+          "cortisol": 0.473242,
+          "dopamine": 0.216463,
+          "endorphins": 0.46519,
+          "gaba": 0.343225,
+          "oxytocin": 0.374404,
+          "serotonin": 0.363272,
+          "testosterone": 0.146412
+        },
+        "levels": {
+          "adrenaline": 0.550853,
+          "cortisol": 0.980809,
+          "dopamine": 0.540161,
+          "endorphins": 0.75119,
+          "gaba": 0.28104,
+          "oxytocin": 0.83773,
+          "serotonin": 0.286982,
+          "testosterone": 0.360605
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.21757845,
+        "anxiety": 0.10228754999999996,
+        "bonding": 0.6858622,
+        "calm": 0.4541548,
+        "euphoria": 0.6904983,
+        "excitement": 0.76776145,
+        "happiness": 0.67931765,
+        "sadness": 0.022554599999999998
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.445504,
+          "cortisol": 0.324297,
+          "dopamine": 0.329728,
+          "endorphins": 0.151659,
+          "gaba": 0.377828,
+          "oxytocin": 0.20816,
+          "serotonin": 0.172625,
+          "testosterone": 0.327145
+        },
+        "levels": {
+          "adrenaline": 0.875492,
+          "cortisol": 0.037591,
+          "dopamine": 0.852615,
+          "endorphins": 0.266026,
+          "gaba": 0.633773,
+          "oxytocin": 0.899038,
+          "serotonin": 0.61046,
+          "testosterone": 0.376874
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.36563694999999996,
+        "anxiety": 0.27984820000000005,
+        "bonding": 0.4254638,
+        "calm": 0.25630865,
+        "euphoria": 0.5003605,
+        "excitement": 0.56473145,
+        "happiness": 0.37700494999999995,
+        "sadness": 0.30028679999999996
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.176034,
+          "cortisol": 0.129029,
+          "dopamine": 0.365886,
+          "endorphins": 0.212742,
+          "gaba": 0.330923,
+          "oxytocin": 0.213111,
+          "serotonin": 0.312824,
+          "testosterone": 0.131666
+        },
+        "levels": {
+          "adrenaline": 0.540322,
+          "cortisol": 0.500478,
+          "dopamine": 0.613169,
+          "endorphins": 0.38388,
+          "gaba": 0.529458,
+          "oxytocin": 0.465907,
+          "serotonin": 0.385781,
+          "testosterone": 0.534887
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.25956015,
+        "anxiety": 0.17107814999999998,
+        "bonding": 0.5827294000000001,
+        "calm": 0.2921319,
+        "euphoria": 0.7976023999999999,
+        "excitement": 0.8122491,
+        "happiness": 0.7392283000000002,
+        "sadness": 0.1307132
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.409284,
+          "cortisol": 0.468411,
+          "dopamine": 0.163568,
+          "endorphins": 0.304587,
+          "gaba": 0.138003,
+          "oxytocin": 0.423571,
+          "serotonin": 0.491217,
+          "testosterone": 0.138601
+        },
+        "levels": {
+          "adrenaline": 0.995855,
+          "cortisol": 0.212978,
+          "dopamine": 0.981821,
+          "endorphins": 0.735447,
+          "gaba": 0.498578,
+          "oxytocin": 0.416255,
+          "serotonin": 0.758375,
+          "testosterone": 0.102385
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.4785998999999999,
+        "anxiety": 0.4393274999999999,
+        "bonding": 0.5334403,
+        "calm": 0.10948020000000003,
+        "euphoria": 0.42286540000000006,
+        "excitement": 0.3139818999999999,
+        "happiness": 0.22177785,
+        "sadness": 0.7085507
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.366598,
+          "cortisol": 0.43592,
+          "dopamine": 0.360357,
+          "endorphins": 0.357844,
+          "gaba": 0.359156,
+          "oxytocin": 0.206597,
+          "serotonin": 0.124756,
+          "testosterone": 0.205072
+        },
+        "levels": {
+          "adrenaline": 0.611682,
+          "cortisol": 0.928167,
+          "dopamine": 0.057056,
+          "endorphins": 0.669096,
+          "gaba": 0.208617,
+          "oxytocin": 0.413417,
+          "serotonin": 0.643042,
+          "testosterone": 0.093777
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.19360804999999995,
+        "anxiety": 0.07068929999999998,
+        "bonding": 0.5624061,
+        "calm": 0.44790225,
+        "euphoria": 0.7540054,
+        "excitement": 0.66486495,
+        "happiness": 0.69016965,
+        "sadness": 0.25372799999999995
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.389279,
+          "cortisol": 0.20888,
+          "dopamine": 0.442829,
+          "endorphins": 0.165187,
+          "gaba": 0.285941,
+          "oxytocin": 0.22807,
+          "serotonin": 0.338242,
+          "testosterone": 0.483063
+        },
+        "levels": {
+          "adrenaline": 0.645816,
+          "cortisol": 0.42288,
+          "dopamine": 0.927593,
+          "endorphins": 0.961477,
+          "gaba": 0.783092,
+          "oxytocin": 0.290606,
+          "serotonin": 0.749359,
+          "testosterone": 0.247951
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.5391552499999999,
+        "anxiety": 0.3958472,
+        "bonding": 0.44934270000000004,
+        "calm": 0.18584035000000002,
+        "euphoria": 0.6382262,
+        "excitement": 0.8518931000000001,
+        "happiness": 0.62172785,
+        "sadness": 0.2598978
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.173245,
+          "cortisol": 0.408011,
+          "dopamine": 0.323583,
+          "endorphins": 0.492519,
+          "gaba": 0.468166,
+          "oxytocin": 0.361652,
+          "serotonin": 0.416478,
+          "testosterone": 0.461428
+        },
+        "levels": {
+          "adrenaline": 0.930686,
+          "cortisol": 0.327257,
+          "dopamine": 0.842624,
+          "endorphins": 0.529144,
+          "gaba": 0.32127,
+          "oxytocin": 0.202793,
+          "serotonin": 0.807058,
+          "testosterone": 0.69083
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.6709921,
+        "anxiety": 0.52752135,
+        "bonding": 0.6473443,
+        "calm": 0.30559995000000006,
+        "euphoria": 0.4587064,
+        "excitement": 0.5469141500000001,
+        "happiness": 0.32142885,
+        "sadness": 0.6246961999999999
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.191257,
+          "cortisol": 0.155715,
+          "dopamine": 0.239666,
+          "endorphins": 0.228142,
+          "gaba": 0.378541,
+          "oxytocin": 0.218229,
+          "serotonin": 0.197447,
+          "testosterone": 0.165375
+        },
+        "levels": {
+          "adrenaline": 0.814339,
+          "cortisol": 0.926732,
+          "dopamine": 0.102352,
+          "endorphins": 0.512068,
+          "gaba": 0.50261,
+          "oxytocin": 0.557563,
+          "serotonin": 0.887164,
+          "testosterone": 0.723192
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.4876906999999999,
+        "anxiety": 0.41013770000000016,
+        "bonding": 0.392431,
+        "calm": 0.3002458000000001,
+        "euphoria": 0.6430429,
+        "excitement": 0.81087595,
+        "happiness": 0.39450514999999997,
+        "sadness": 0.5444568
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.417746,
+          "cortisol": 0.331969,
+          "dopamine": 0.220063,
+          "endorphins": 0.144167,
+          "gaba": 0.395307,
+          "oxytocin": 0.229011,
+          "serotonin": 0.234696,
+          "testosterone": 0.153864
+        },
+        "levels": {
+          "adrenaline": 0.781476,
+          "cortisol": 0.907428,
+          "dopamine": 0.953053,
+          "endorphins": 0.387744,
+          "gaba": 0.947425,
+          "oxytocin": 0.422543,
+          "serotonin": 0.345369,
+          "testosterone": 0.628216
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.06925135000000004,
+        "anxiety": 0.0,
+        "bonding": 0.6742600999999999,
+        "calm": 0.6951184999999999,
+        "euphoria": 0.5175128999999999,
+        "excitement": 0.44839710000000005,
+        "happiness": 0.5772825999999999,
+        "sadness": 0.1596198
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.310384,
+          "cortisol": 0.317225,
+          "dopamine": 0.387116,
+          "endorphins": 0.27343,
+          "gaba": 0.406429,
+          "oxytocin": 0.442787,
+          "serotonin": 0.181386,
+          "testosterone": 0.479493
+        },
+        "levels": {
+          "adrenaline": 0.434823,
+          "cortisol": 0.266033,
+          "dopamine": 0.507945,
+          "endorphins": 0.474286,
+          "gaba": 0.951542,
+          "oxytocin": 0.679395,
+          "serotonin": 0.799018,
+          "testosterone": 0.37473
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.3817707,
+        "anxiety": 0.22270060000000005,
+        "bonding": 0.3373837,
+        "calm": 0.4335530999999999,
+        "euphoria": 0.2302904,
+        "excitement": 0.49817659999999997,
+        "happiness": 0.2910220499999999,
+        "sadness": 0.4536674
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.460939,
+          "cortisol": 0.293372,
+          "dopamine": 0.133285,
+          "endorphins": 0.462923,
+          "gaba": 0.151562,
+          "oxytocin": 0.14015,
+          "serotonin": 0.353153,
+          "testosterone": 0.379843
+        },
+        "levels": {
+          "adrenaline": 0.751882,
+          "cortisol": 0.714581,
+          "dopamine": 0.212154,
+          "endorphins": 0.002324,
+          "gaba": 0.812183,
+          "oxytocin": 0.077853,
+          "serotonin": 0.993308,
+          "testosterone": 0.427879
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.58777225,
+        "anxiety": 0.47754225,
+        "bonding": 0.6186197,
+        "calm": 0.1617555,
+        "euphoria": 0.4788065,
+        "excitement": 0.48351500000000003,
+        "happiness": 0.41107039999999995,
+        "sadness": 0.3711342
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.478268,
+          "cortisol": 0.22868,
+          "dopamine": 0.107915,
+          "endorphins": 0.194501,
+          "gaba": 0.321737,
+          "oxytocin": 0.32859,
+          "serotonin": 0.180594,
+          "testosterone": 0.346845
+        },
+        "levels": {
+          "adrenaline": 0.390232,
+          "cortisol": 0.618557,
+          "dopamine": 0.46402,
+          "endorphins": 0.383563,
+          "gaba": 0.001412,
+          "oxytocin": 0.732426,
+          "serotonin": 0.585647,
+          "testosterone": 0.727518
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.6618325499999999,
+        "anxiety": 0.49525965,
+        "bonding": 0.36197549999999995,
+        "calm": 0.22471979999999991,
+        "euphoria": 0.4129343,
+        "excitement": 0.64788545,
+        "happiness": 0.3843464999999999,
+        "sadness": 0.5858813999999999
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.38535,
+          "cortisol": 0.379632,
+          "dopamine": 0.342907,
+          "endorphins": 0.199599,
+          "gaba": 0.332767,
+          "oxytocin": 0.223349,
+          "serotonin": 0.499199,
+          "testosterone": 0.369817
+        },
+        "levels": {
+          "adrenaline": 0.669848,
+          "cortisol": 0.842227,
+          "dopamine": 0.499115,
+          "endorphins": 0.41611,
+          "gaba": 0.448292,
+          "oxytocin": 0.021986,
+          "serotonin": 0.892535,
+          "testosterone": 0.858818
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.28805205,
+        "anxiety": 0.13346315000000003,
+        "bonding": 0.5523248000000001,
+        "calm": 0.4382762,
+        "euphoria": 0.45866419999999997,
+        "excitement": 0.28510775,
+        "happiness": 0.3377618,
+        "sadness": 0.3536332
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.223896,
+          "cortisol": 0.156769,
+          "dopamine": 0.385385,
+          "endorphins": 0.224904,
+          "gaba": 0.225136,
+          "oxytocin": 0.121694,
+          "serotonin": 0.156947,
+          "testosterone": 0.419534
+        },
+        "levels": {
+          "adrenaline": 0.116338,
+          "cortisol": 0.409727,
+          "dopamine": 0.169791,
+          "endorphins": 0.968641,
+          "gaba": 0.645264,
+          "oxytocin": 0.469335,
+          "serotonin": 0.413097,
+          "testosterone": 0.866644
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.1653586,
+        "anxiety": 0.057344750000000055,
+        "bonding": 0.6772157,
+        "calm": 0.42092244999999995,
+        "euphoria": 0.49321709999999996,
+        "excitement": 0.30438579999999993,
+        "happiness": 0.6120912999999999,
+        "sadness": 0.32300999999999996
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.473329,
+          "cortisol": 0.323374,
+          "dopamine": 0.14056,
+          "endorphins": 0.167649,
+          "gaba": 0.36747,
+          "oxytocin": 0.360831,
+          "serotonin": 0.354175,
+          "testosterone": 0.306177
+        },
+        "levels": {
+          "adrenaline": 0.061474,
+          "cortisol": 0.53835,
+          "dopamine": 0.766662,
+          "endorphins": 0.361787,
+          "gaba": 0.1873,
+          "oxytocin": 0.711938,
+          "serotonin": 0.829631,
+          "testosterone": 0.041954
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.2693582,
+        "anxiety": 0.19379110000000005,
+        "bonding": 0.4412618,
+        "calm": 0.2336955,
+        "euphoria": 0.5113495,
+        "excitement": 0.47249455,
+        "happiness": 0.41143345,
+        "sadness": 0.417485
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.318968,
+          "cortisol": 0.226691,
+          "dopamine": 0.341821,
+          "endorphins": 0.415924,
+          "gaba": 0.281747,
+          "oxytocin": 0.485015,
+          "serotonin": 0.239932,
+          "testosterone": 0.468944
+        },
+        "levels": {
+          "adrenaline": 0.764164,
+          "cortisol": 0.465067,
+          "dopamine": 0.334733,
+          "endorphins": 0.761814,
+          "gaba": 0.475756,
+          "oxytocin": 0.147763,
+          "serotonin": 0.716725,
+          "testosterone": 0.057321
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.0013527500000000137,
+        "anxiety": 0.0,
+        "bonding": 0.42746249999999997,
+        "calm": 0.48386274999999995,
+        "euphoria": 0.18612889999999999,
+        "excitement": 0.12271280000000001,
+        "happiness": 0.3091124,
+        "sadness": 0.1349525
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.339628,
+          "cortisol": 0.271263,
+          "dopamine": 0.295672,
+          "endorphins": 0.390346,
+          "gaba": 0.272937,
+          "oxytocin": 0.494029,
+          "serotonin": 0.23133,
+          "testosterone": 0.478328
+        },
+        "levels": {
+          "adrenaline": 0.049239,
+          "cortisol": 0.012768,
+          "dopamine": 0.075051,
+          "endorphins": 0.211502,
+          "gaba": 0.492969,
+          "oxytocin": 0.451576,
+          "serotonin": 0.531247,
+          "testosterone": 0.371437
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.23895294999999997,
+        "anxiety": 0.13475140000000008,
+        "bonding": 0.6369717,
+        "calm": 0.41478645000000003,
+        "euphoria": 0.5858269,
+        "excitement": 0.48560975000000006,
+        "happiness": 0.6111687,
+        "sadness": 0.3609264
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.433358,
+          "cortisol": 0.260942,
+          "dopamine": 0.37398,
+          "endorphins": 0.334395,
+          "gaba": 0.266177,
+          "oxytocin": 0.313007,
+          "serotonin": 0.385428,
+          "testosterone": 0.46656
+        },
+        "levels": {
+          "adrenaline": 0.299094,
+          "cortisol": 0.601544,
+          "dopamine": 0.896479,
+          "endorphins": 0.408616,
+          "gaba": 0.421676,
+          "oxytocin": 0.672398,
+          "serotonin": 0.730165,
+          "testosterone": 0.186249
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.1457262,
+        "anxiety": 0.09932920000000006,
+        "bonding": 0.5982103,
+        "calm": 0.38348620000000005,
+        "euphoria": 0.4097718,
+        "excitement": 0.28120880000000004,
+        "happiness": 0.20273805,
+        "sadness": 0.3044652
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.222249,
+          "cortisol": 0.201997,
+          "dopamine": 0.297425,
+          "endorphins": 0.154842,
+          "gaba": 0.166397,
+          "oxytocin": 0.234251,
+          "serotonin": 0.131098,
+          "testosterone": 0.173907
+        },
+        "levels": {
+          "adrenaline": 0.454791,
+          "cortisol": 0.293111,
+          "dopamine": 0.042123,
+          "endorphins": 0.374273,
+          "gaba": 0.671557,
+          "oxytocin": 0.969474,
+          "serotonin": 0.128729,
+          "testosterone": 0.309049
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.2408754,
+        "anxiety": 0.26191929999999997,
+        "bonding": 0.31373300000000004,
+        "calm": 0.0,
+        "euphoria": 0.30353040000000003,
+        "excitement": 0.18524735,
+        "happiness": 0.09313799999999998,
+        "sadness": 0.42103240000000003
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.221547,
+          "cortisol": 0.133357,
+          "dopamine": 0.268024,
+          "endorphins": 0.443275,
+          "gaba": 0.115265,
+          "oxytocin": 0.470289,
+          "serotonin": 0.169788,
+          "testosterone": 0.181159
+        },
+        "levels": {
+          "adrenaline": 0.358153,
+          "cortisol": 0.421883,
+          "dopamine": 0.058914,
+          "endorphins": 0.45005,
+          "gaba": 0.067607,
+          "oxytocin": 0.396053,
+          "serotonin": 0.085655,
+          "testosterone": 0.017293
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.37124994999999994,
+        "anxiety": 0.20355199999999996,
+        "bonding": 0.527276,
+        "calm": 0.42846284999999995,
+        "euphoria": 0.3097978,
+        "excitement": 0.3726385,
+        "happiness": 0.3416411,
+        "sadness": 0.24553139999999998
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.427455,
+          "cortisol": 0.225083,
+          "dopamine": 0.225321,
+          "endorphins": 0.101741,
+          "gaba": 0.458957,
+          "oxytocin": 0.499248,
+          "serotonin": 0.148834,
+          "testosterone": 0.306648
+        },
+        "levels": {
+          "adrenaline": 0.255935,
+          "cortisol": 0.409219,
+          "dopamine": 0.250261,
+          "endorphins": 0.208927,
+          "gaba": 0.486803,
+          "oxytocin": 0.604272,
+          "serotonin": 0.611182,
+          "testosterone": 0.849382
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.24709160000000002,
+        "anxiety": 0.20877110000000007,
+        "bonding": 0.2126684,
+        "calm": 0.23651429999999996,
+        "euphoria": 0.47106230000000004,
+        "excitement": 0.62047355,
+        "happiness": 0.2641535499999999,
+        "sadness": 0.4145166
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.286421,
+          "cortisol": 0.180949,
+          "dopamine": 0.466474,
+          "endorphins": 0.140741,
+          "gaba": 0.432389,
+          "oxytocin": 0.139924,
+          "serotonin": 0.384312,
+          "testosterone": 0.306519
+        },
+        "levels": {
+          "adrenaline": 0.938685,
+          "cortisol": 0.608983,
+          "dopamine": 0.514618,
+          "endorphins": 0.418395,
+          "gaba": 0.930229,
+          "oxytocin": 0.017107,
+          "serotonin": 0.401453,
+          "testosterone": 0.089745
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.39160265,
+        "anxiety": 0.24362660000000005,
+        "bonding": 0.2711819,
+        "calm": 0.25915255,
+        "euphoria": 0.44853640000000006,
+        "excitement": 0.5333934,
+        "happiness": 0.46201194999999995,
+        "sadness": 0.3815748
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.100178,
+          "cortisol": 0.408976,
+          "dopamine": 0.282518,
+          "endorphins": 0.420404,
+          "gaba": 0.428378,
+          "oxytocin": 0.366758,
+          "serotonin": 0.231741,
+          "testosterone": 0.272049
+        },
+        "levels": {
+          "adrenaline": 0.014826,
+          "cortisol": 0.481092,
+          "dopamine": 0.960962,
+          "endorphins": 0.434636,
+          "gaba": 0.381337,
+          "oxytocin": 0.134459,
+          "serotonin": 0.390084,
+          "testosterone": 0.951925
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.08738419999999997,
+        "anxiety": 0.0,
+        "bonding": 0.614542,
+        "calm": 0.56833695,
+        "euphoria": 0.4761788,
+        "excitement": 0.3763462,
+        "happiness": 0.4675704,
+        "sadness": 0.17165239999999998
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.326938,
+          "cortisol": 0.406729,
+          "dopamine": 0.178966,
+          "endorphins": 0.190407,
+          "gaba": 0.12798,
+          "oxytocin": 0.448669,
+          "serotonin": 0.457194,
+          "testosterone": 0.305303
+        },
+        "levels": {
+          "adrenaline": 0.648004,
+          "cortisol": 0.234499,
+          "dopamine": 0.130916,
+          "endorphins": 0.736778,
+          "gaba": 0.857361,
+          "oxytocin": 0.431349,
+          "serotonin": 0.838373,
+          "testosterone": 0.194619
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.45455645,
+        "anxiety": 0.3991876500000001,
+        "bonding": 0.5338962,
+        "calm": 0.22479689999999997,
+        "euphoria": 0.5214639000000001,
+        "excitement": 0.61353505,
+        "happiness": 0.28733224999999996,
+        "sadness": 0.4230716
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.113659,
+          "cortisol": 0.268869,
+          "dopamine": 0.470908,
+          "endorphins": 0.468055,
+          "gaba": 0.382281,
+          "oxytocin": 0.112016,
+          "serotonin": 0.377584,
+          "testosterone": 0.433136
+        },
+        "levels": {
+          "adrenaline": 0.913477,
+          "cortisol": 0.588026,
+          "dopamine": 0.330396,
+          "endorphins": 0.327637,
+          "gaba": 0.590838,
+          "oxytocin": 0.706793,
+          "serotonin": 0.383241,
+          "testosterone": 0.434159
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.22227385,
+        "anxiety": 0.20933530000000006,
+        "bonding": 0.2958022,
+        "calm": 0.25183385,
+        "euphoria": 0.40924530000000003,
+        "excitement": 0.46680014999999997,
+        "happiness": 0.15818334999999997,
+        "sadness": 0.40586479999999997
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.349425,
+          "cortisol": 0.176873,
+          "dopamine": 0.231739,
+          "endorphins": 0.475054,
+          "gaba": 0.45434,
+          "oxytocin": 0.389354,
+          "serotonin": 0.11319,
+          "testosterone": 0.381829
+        },
+        "levels": {
+          "adrenaline": 0.693813,
+          "cortisol": 0.667264,
+          "dopamine": 0.377438,
+          "endorphins": 0.273779,
+          "gaba": 0.862514,
+          "oxytocin": 0.375588,
+          "serotonin": 0.177508,
+          "testosterone": 0.112405
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.31714445,
+        "anxiety": 0.29159469999999993,
+        "bonding": 0.3783971,
+        "calm": 0.14703305000000003,
+        "euphoria": 0.5150515,
+        "excitement": 0.5425593000000001,
+        "happiness": 0.3188198,
+        "sadness": 0.3355394
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.3006,
+          "cortisol": 0.11084,
+          "dopamine": 0.435825,
+          "endorphins": 0.330312,
+          "gaba": 0.275531,
+          "oxytocin": 0.329643,
+          "serotonin": 0.255541,
+          "testosterone": 0.313171
+        },
+        "levels": {
+          "adrenaline": 0.542409,
+          "cortisol": 0.491085,
+          "dopamine": 0.667583,
+          "endorphins": 0.333338,
+          "gaba": 0.436317,
+          "oxytocin": 0.531467,
+          "serotonin": 0.15332,
+          "testosterone": 0.324106
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.46573895,
+        "anxiety": 0.4455198500000001,
+        "bonding": 0.30177299999999996,
+        "calm": 0.0,
+        "euphoria": 0.3528128,
+        "excitement": 0.39583065,
+        "happiness": 0.20555199999999993,
+        "sadness": 0.5494992
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.420121,
+          "cortisol": 0.230936,
+          "dopamine": 0.201649,
+          "endorphins": 0.39067,
+          "gaba": 0.48498,
+          "oxytocin": 0.29268,
+          "serotonin": 0.465227,
+          "testosterone": 0.170825
+        },
+        "levels": {
+          "adrenaline": 0.64735,
+          "cortisol": 0.794798,
+          "dopamine": 0.268765,
+          "endorphins": 0.401625,
+          "gaba": 0.083141,
+          "oxytocin": 0.111129,
+          "serotonin": 0.552945,
+          "testosterone": 0.052277
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.19789790000000002,
+        "anxiety": 0.09408200000000003,
+        "bonding": 0.4202215,
+        "calm": 0.34760810000000003,
+        "euphoria": 0.4152485,
+        "excitement": 0.35366555,
+        "happiness": 0.31936680000000006,
+        "sadness": 0.4269502
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.460274,
+          "cortisol": 0.137929,
+          "dopamine": 0.226845,
+          "endorphins": 0.254494,
+          "gaba": 0.42853,
+          "oxytocin": 0.295549,
+          "serotonin": 0.113156,
+          "testosterone": 0.315769
+        },
+        "levels": {
+          "adrenaline": 0.675232,
+          "cortisol": 0.417393,
+          "dopamine": 0.046917,
+          "endorphins": 0.834308,
+          "gaba": 0.697307,
+          "oxytocin": 0.079173,
+          "serotonin": 0.712578,
+          "testosterone": 0.166951
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.20309775000000002,
+        "anxiety": 0.17687465000000002,
+        "bonding": 0.49342919999999996,
+        "calm": 0.24158339999999998,
+        "euphoria": 0.43653329999999996,
+        "excitement": 0.28528774999999995,
+        "happiness": 0.29813284999999995,
+        "sadness": 0.42189440000000006
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.282622,
+          "cortisol": 0.338966,
+          "dopamine": 0.35196,
+          "endorphins": 0.185998,
+          "gaba": 0.468073,
+          "oxytocin": 0.298877,
+          "serotonin": 0.413903,
+          "testosterone": 0.478616
+        },
+        "levels": {
+          "adrenaline": 0.195292,
+          "cortisol": 0.585138,
+          "dopamine": 0.493045,
+          "endorphins": 0.36643,
+          "gaba": 0.345864,
+          "oxytocin": 0.698162,
+          "serotonin": 0.236874,
+          "testosterone": 0.124203
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.08247855000000001,
+        "anxiety": 0.0,
+        "bonding": 0.3700101,
+        "calm": 0.42442645,
+        "euphoria": 0.47984380000000004,
+        "excitement": 0.3339993,
+        "happiness": 0.4879873500000001,
+        "sadness": 0.1408286
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.463803,
+          "cortisol": 0.129569,
+          "dopamine": 0.44331,
+          "endorphins": 0.170575,
+          "gaba": 0.479682,
+          "oxytocin": 0.344558,
+          "serotonin": 0.415167,
+          "testosterone": 0.474081
+        },
+        "levels": {
+          "adrenaline": 0.008186,
+          "cortisol": 0.074057,
+          "dopamine": 0.56096,
+          "endorphins": 0.964014,
+          "gaba": 0.601205,
+          "oxytocin": 0.103572,
+          "serotonin": 0.418071,
+          "testosterone": 0.669898
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.28690519999999997,
+        "anxiety": 0.17194435000000016,
+        "bonding": 0.9229433999999999,
+        "calm": 0.53811965,
+        "euphoria": 0.6777542999999999,
+        "excitement": 0.47031935,
+        "happiness": 0.5231652499999999,
+        "sadness": 0.3611083
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.204552,
+          "cortisol": 0.437447,
+          "dopamine": 0.151182,
+          "endorphins": 0.302581,
+          "gaba": 0.388671,
+          "oxytocin": 0.366787,
+          "serotonin": 0.45024,
+          "testosterone": 0.10539
+        },
+        "levels": {
+          "adrenaline": 0.8969,
+          "cortisol": 0.570613,
+          "dopamine": 0.113701,
+          "endorphins": 0.929348,
+          "gaba": 0.763292,
+          "oxytocin": 0.927298,
+          "serotonin": 0.911416,
+          "testosterone": 0.134595
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.24815460000000003,
+        "anxiety": 0.2273872500000001,
+        "bonding": 0.14139580000000002,
+        "calm": 0.20401514999999995,
+        "euphoria": 0.2145367,
+        "excitement": 0.24465875,
+        "happiness": 0.0,
+        "sadness": 0.6337864
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.278599,
+          "cortisol": 0.403463,
+          "dopamine": 0.189077,
+          "endorphins": 0.390257,
+          "gaba": 0.257696,
+          "oxytocin": 0.116776,
+          "serotonin": 0.331466,
+          "testosterone": 0.129177
+        },
+        "levels": {
+          "adrenaline": 0.204833,
+          "cortisol": 0.86111,
+          "dopamine": 0.258282,
+          "endorphins": 0.200759,
+          "gaba": 0.744443,
+          "oxytocin": 0.179289,
+          "serotonin": 0.038665,
+          "testosterone": 0.310426
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.5588063,
+        "anxiety": 0.52032895,
+        "bonding": 0.5185143,
+        "calm": 0.15379715000000005,
+        "euphoria": 0.6277906,
+        "excitement": 0.5645185,
+        "happiness": 0.2184790499999999,
+        "sadness": 0.6123158
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.335678,
+          "cortisol": 0.353576,
+          "dopamine": 0.413853,
+          "endorphins": 0.322441,
+          "gaba": 0.338243,
+          "oxytocin": 0.415514,
+          "serotonin": 0.226345,
+          "testosterone": 0.436466
+        },
+        "levels": {
+          "adrenaline": 0.545489,
+          "cortisol": 0.879167,
+          "dopamine": 0.470763,
+          "endorphins": 0.780795,
+          "gaba": 0.608471,
+          "oxytocin": 0.716127,
+          "serotonin": 0.014306,
+          "testosterone": 0.771407
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.44994225,
+        "anxiety": 0.35732915000000004,
+        "bonding": 0.3458292,
+        "calm": 0.0996502,
+        "euphoria": 0.5231002,
+        "excitement": 0.5149988999999999,
+        "happiness": 0.3541485,
+        "sadness": 0.34364439999999996
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.375529,
+          "cortisol": 0.306805,
+          "dopamine": 0.242079,
+          "endorphins": 0.412908,
+          "gaba": 0.429979,
+          "oxytocin": 0.13176,
+          "serotonin": 0.403719,
+          "testosterone": 0.245231
+        },
+        "levels": {
+          "adrenaline": 0.60156,
+          "cortisol": 0.490576,
+          "dopamine": 0.378226,
+          "endorphins": 0.958726,
+          "gaba": 0.326945,
+          "oxytocin": 0.008513,
+          "serotonin": 0.499425,
+          "testosterone": 0.559589
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.3035009,
+        "anxiety": 0.2840183,
+        "bonding": 0.6265366,
+        "calm": 0.17284380000000002,
+        "euphoria": 0.5223548,
+        "excitement": 0.2698928,
+        "happiness": 0.28017669999999995,
+        "sadness": 0.4922346
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.307922,
+          "cortisol": 0.257868,
+          "dopamine": 0.238267,
+          "endorphins": 0.359949,
+          "gaba": 0.322168,
+          "oxytocin": 0.433995,
+          "serotonin": 0.499223,
+          "testosterone": 0.143883
+        },
+        "levels": {
+          "adrenaline": 0.126448,
+          "cortisol": 0.497997,
+          "dopamine": 0.379116,
+          "endorphins": 0.61178,
+          "gaba": 0.164195,
+          "oxytocin": 0.998982,
+          "serotonin": 0.015632,
+          "testosterone": 0.401503
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.59047245,
+        "anxiety": 0.43236575,
+        "bonding": 0.2740207,
+        "calm": 0.1391232,
+        "euphoria": 0.21490920000000002,
+        "excitement": 0.4723398,
+        "happiness": 0.28338375000000005,
+        "sadness": 0.419299
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.472677,
+          "cortisol": 0.316151,
+          "dopamine": 0.253944,
+          "endorphins": 0.394373,
+          "gaba": 0.246238,
+          "oxytocin": 0.291839,
+          "serotonin": 0.296893,
+          "testosterone": 0.451775
+        },
+        "levels": {
+          "adrenaline": 0.426293,
+          "cortisol": 0.542983,
+          "dopamine": 0.300553,
+          "endorphins": 0.092905,
+          "gaba": 0.114199,
+          "oxytocin": 0.058066,
+          "serotonin": 0.754689,
+          "testosterone": 0.876572
+        }
+      }
+    },
+    {
+      "expected": {
+        "anger": 0.08499999999999999,
+        "anxiety": 0.0,
+        "bonding": 0.29000000000000004,
+        "calm": 0.33999999999999997,
+        "euphoria": 0.21,
+        "excitement": 0.21,
+        "happiness": 0.29999999999999993,
+        "sadness": 0.12
+      },
+      "input": {
+        "baselines": {
+          "adrenaline": 0.1,
+          "cortisol": 0.2,
+          "dopamine": 0.3,
+          "endorphins": 0.2,
+          "gaba": 0.4,
+          "oxytocin": 0.2,
+          "serotonin": 0.5,
+          "testosterone": 0.3
+        },
+        "levels": {
+          "adrenaline": 0.1,
+          "cortisol": 0.2,
+          "dopamine": 0.3,
+          "endorphins": 0.2,
+          "gaba": 0.4,
+          "oxytocin": 0.2,
+          "serotonin": 0.5,
+          "testosterone": 0.3
+        }
+      }
+    }
+  ]
+}

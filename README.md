@@ -228,12 +228,25 @@ face = FaceProjection.compute(engine.state)   # 12 floats in [0, 1]
 my_renderer.draw(face.lip_corner_pull, face.jaw_open, ...)
 ```
 
+## Native iOS App
+
+`ios/` contains a native iOS port that runs the whole pipeline
+on-device: Apple's Foundation Models framework (Apple Intelligence,
+iOS 26+) replaces Claude as the interpreter — guided generation returns
+typed impulses, so there's no JSON parsing at all — and a pure-Swift
+port of the engine (`KindaliveKit`) drives the same LED face with
+`AVSpeechSynthesizer` voice + lip sync. No network, no API keys. The
+Python engine stays the source of truth; the Swift core is locked to it
+by golden fixtures generated from this repo. See
+[docs/ios-app.md](docs/ios-app.md).
+
 ## Documentation
 
 | Document | Description |
 |----------|-------------|
 | [Architecture](docs/architecture.md) | **Source of truth** — chemicals, emotions, face projection, LLM interpreter, personalities |
 | [Web UI](docs/web-ui.md) | The dashboard — LED face, chemical levels, emotion mix, LLM setup |
+| [iOS App](docs/ios-app.md) | Native iOS port — on-device Apple Intelligence, SwiftUI LED face, fixture parity |
 | [Testing Strategy](docs/testing-strategy.md) | Test layers with code examples and build order |
 | [LLM Benchmark](docs/llm-benchmark.md) | Scenarios for evaluating LLM interpretation quality |
 

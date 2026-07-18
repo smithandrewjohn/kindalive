@@ -1,0 +1,61 @@
+{
+  "baselines": {
+    "adrenaline": 0.15,
+    "cortisol": 0.3545,
+    "dopamine": 0.3,
+    "endorphins": 0.2,
+    "gaba": 0.25,
+    "oxytocin": 0.2,
+    "serotonin": 0.4,
+    "testosterone": 0.3
+  },
+  "half_lives": {
+    "adrenaline": 180.0,
+    "cortisol": 5400.0,
+    "dopamine": 1200.0,
+    "endorphins": 1800.0,
+    "gaba": 4680.0,
+    "oxytocin": 1800.0,
+    "serotonin": 14400.0,
+    "testosterone": 7200.0
+  },
+  "levels": {
+    "adrenaline": 0.20062912285852094,
+    "cortisol": 0.36820073964947014,
+    "dopamine": 0.3,
+    "endorphins": 0.2,
+    "gaba": 0.18260649313574226,
+    "oxytocin": 0.2,
+    "serotonin": 0.15988367865101444,
+    "testosterone": 0.3
+  },
+  "seed": {
+    "baselines": {
+      "adrenaline": 0.15,
+      "cortisol": 0.35,
+      "dopamine": 0.3,
+      "endorphins": 0.2,
+      "gaba": 0.25,
+      "oxytocin": 0.2,
+      "serotonin": 0.4,
+      "testosterone": 0.3
+    },
+    "half_life_multipliers": {
+      "cortisol": 1.5,
+      "gaba": 1.3
+    },
+    "interaction_scale": 1.3
+  },
+  "sustained_impulses": [
+    {
+      "chemical": "gaba",
+      "delta": 0.25,
+      "duration_seconds": 120.0,
+      "rate_per_second": 0.0020833333333333333,
+      "remaining_seconds": 75.0,
+      "source_id": "fx:breathing",
+      "source_label": "slow breathing"
+    }
+  ],
+  "version": 1
+}

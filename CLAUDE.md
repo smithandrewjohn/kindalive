@@ -158,6 +158,10 @@ If you change emotion weights, interaction coefficients, or chemical parameters:
 3. Run the full test suite — especially property tests and emotion projection tests
 4. Run the LLM benchmark to check for regressions (>90% PASS required)
 5. Check that baseline neutrality expectations still hold (test_default_state_is_neutral)
+6. Regenerate the Swift parity fixtures (`python3 scripts/generate_swift_fixtures.py`)
+   and update the mirrored constant in `ios/KindaliveKit/Sources/KindaliveKit/`.
+   The Swift weight/coefficient tables mirror the Python modules the same way the
+   TOMLs do — Python stays authoritative. See `docs/ios-app.md`.
 
 ## Project Structure
 
@@ -180,6 +184,11 @@ kindalive/
 
 examples/            # FaceState → real hardware (MAX7219 LED matrix,
 │                    # PCA9685 servos), terminal fallbacks, own README
+ios/                 # Native iOS app (docs/ios-app.md): KindaliveKit —
+│                    # pure-Swift engine port locked to Python by golden
+│                    # fixtures — plus a SwiftUI app using on-device
+│                    # Apple Intelligence (FoundationModels, iOS 26+)
+scripts/generate_swift_fixtures.py  # Python engine → golden parity JSON
 .github/workflows/   # CI: tests + coverage gate, py3.9 core run, mypy --strict
 
 tests/

@@ -1,0 +1,227 @@
+{
+  "scenarios": [
+    {
+      "name": "same_source_dampens",
+      "steps": [
+        {
+          "advance": 0,
+          "impulse": {
+            "advance": 0,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.5
+        },
+        {
+          "advance": 10,
+          "impulse": {
+            "advance": 10,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.6538461538461539
+        },
+        {
+          "advance": 10,
+          "impulse": {
+            "advance": 10,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.7788461538461539
+        },
+        {
+          "advance": 10,
+          "impulse": {
+            "advance": 10,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.8841093117408907
+        },
+        {
+          "advance": 10,
+          "impulse": {
+            "advance": 10,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.9750184026499816
+        },
+        {
+          "advance": 10,
+          "impulse": {
+            "advance": 10,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 1.0
+        }
+      ]
+    },
+    {
+      "name": "window_expiry_resets",
+      "steps": [
+        {
+          "advance": 0,
+          "impulse": {
+            "advance": 0,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.5
+        },
+        {
+          "advance": 100,
+          "impulse": {
+            "advance": 100,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.6538461538461539
+        },
+        {
+          "advance": 100,
+          "impulse": {
+            "advance": 100,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.7788461538461539
+        },
+        {
+          "advance": 150,
+          "impulse": {
+            "advance": 150,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.9038461538461539
+        },
+        {
+          "advance": 400,
+          "impulse": {
+            "advance": 400,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 1.0
+        }
+      ]
+    },
+    {
+      "name": "empty_source_never_dampens",
+      "steps": [
+        {
+          "advance": 0,
+          "impulse": {
+            "advance": 0,
+            "chemical": "dopamine",
+            "delta": 0.2
+          },
+          "level_after": 0.5
+        },
+        {
+          "advance": 5,
+          "impulse": {
+            "advance": 5,
+            "chemical": "dopamine",
+            "delta": 0.2
+          },
+          "level_after": 0.7
+        },
+        {
+          "advance": 5,
+          "impulse": {
+            "advance": 5,
+            "chemical": "dopamine",
+            "delta": 0.2
+          },
+          "level_after": 0.8999999999999999
+        },
+        {
+          "advance": 5,
+          "impulse": {
+            "advance": 5,
+            "chemical": "dopamine",
+            "delta": 0.2
+          },
+          "level_after": 1.0
+        }
+      ]
+    },
+    {
+      "name": "distinct_sources_independent",
+      "steps": [
+        {
+          "advance": 0,
+          "impulse": {
+            "advance": 0,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.5
+        },
+        {
+          "advance": 5,
+          "impulse": {
+            "advance": 5,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:other"
+          },
+          "level_after": 0.7
+        },
+        {
+          "advance": 5,
+          "impulse": {
+            "advance": 5,
+            "chemical": "dopamine",
+            "delta": 0.2,
+            "source_id": "fx:repeat"
+          },
+          "level_after": 0.8538461538461538
+        }
+      ]
+    },
+    {
+      "name": "sustained_saturates_once",
+      "steps": [
+        {
+          "advance": 0,
+          "impulse": {
+            "advance": 0,
+            "chemical": "gaba",
+            "delta": 0.3,
+            "duration_seconds": 60.0,
+            "source_id": "fx:amb"
+          },
+          "level_after": 0.4
+        },
+        {
+          "advance": 1,
+          "impulse": {
+            "advance": 1,
+            "chemical": "gaba",
+            "delta": 0.3,
+            "duration_seconds": 60.0,
+            "source_id": "fx:amb"
+          },
+          "level_after": 0.4
+        }
+      ]
+    }
+  ]
+}

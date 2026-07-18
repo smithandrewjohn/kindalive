@@ -1,0 +1,2944 @@
+{
+  "scenarios": [
+    {
+      "impulses": [
+        {
+          "chemical": "dopamine",
+          "delta": 0.5,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.4,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "endorphins",
+          "delta": 0.35,
+          "source_id": "fx:lottery"
+        }
+      ],
+      "personality": "default",
+      "script": "lottery_win",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4076923076923077,
+            "cortisol": 0.2,
+            "dopamine": 0.8,
+            "endorphins": 0.41875,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4057284007425491,
+            "cortisol": 0.2,
+            "dopamine": 0.7999711197015804,
+            "endorphins": 0.4187415764985353,
+            "gaba": 0.3981545569371677,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.38867251685726956,
+            "cortisol": 0.2,
+            "dopamine": 0.7997112720706904,
+            "endorphins": 0.4186657795803884,
+            "gaba": 0.3823791923860217,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.3285882890675237,
+            "cortisol": 0.2,
+            "dopamine": 0.7985580266672945,
+            "endorphins": 0.418329222032169,
+            "gaba": 0.3326792171349151,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.17274079051973842,
+            "cortisol": 0.2,
+            "dopamine": 0.7914102992726251,
+            "endorphins": 0.4162374419521969,
+            "gaba": 0.24843518556959096,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10212206916417503,
+            "cortisol": 0.2,
+            "dopamine": 0.766516495768402,
+            "endorphins": 0.40887160085540625,
+            "gaba": 0.23086043414954355,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10000000001035998,
+            "cortisol": 0.2,
+            "dopamine": 0.6535533905932676,
+            "endorphins": 0.3736219900590334,
+            "gaba": 0.24531601934169517,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.3,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "dopamine",
+          "delta": -0.25,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "serotonin",
+          "delta": -0.2,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "gaba",
+          "delta": 0.2,
+          "duration_seconds": 300.0,
+          "source_id": "fx:rain"
+        }
+      ],
+      "personality": "default",
+      "script": "grief_with_ambient_rain",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.5,
+            "dopamine": 0.1076923076923077,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.375,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.49819425848612836,
+            "dopamine": 0.10770341549939215,
+            "endorphins": 0.2,
+            "gaba": 0.4000666653830732,
+            "oxytocin": 0.2,
+            "serotonin": 0.37410061901732544,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.4822575526491809,
+            "dopamine": 0.10780335689588834,
+            "endorphins": 0.2,
+            "gaba": 0.4006665755376795,
+            "oxytocin": 0.2,
+            "serotonin": 0.36616329615269405,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.42104717449274776,
+            "dopamine": 0.10824691282027135,
+            "endorphins": 0.2,
+            "gaba": 0.40333157409956083,
+            "oxytocin": 0.2,
+            "serotonin": 0.33568446400487095,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2479712676789329,
+            "dopamine": 0.11099603874129804,
+            "endorphins": 0.2,
+            "gaba": 0.4199413939816977,
+            "oxytocin": 0.2,
+            "serotonin": 0.24968451216070228,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.20019605034605628,
+            "dopamine": 0.12057057855061472,
+            "endorphins": 0.2,
+            "gaba": 0.47907907906338426,
+            "oxytocin": 0.2,
+            "serotonin": 0.2270397591040363,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.20000000000000046,
+            "dopamine": 0.16401792669489765,
+            "endorphins": 0.2,
+            "gaba": 0.5834174815295198,
+            "oxytocin": 0.2,
+            "serotonin": 0.23317862333676417,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "serotonin",
+          "delta": 0.3,
+          "duration_seconds": 180.0,
+          "source_id": "fx:sun"
+        },
+        {
+          "chemical": "oxytocin",
+          "delta": 0.15,
+          "duration_seconds": 240.0
+        }
+      ],
+      "personality": "default",
+      "script": "sustained_only",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2000624975932853,
+            "serotonin": 0.5001666658644149,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.20062482914633042,
+            "serotonin": 0.501666609707754,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.203121702542189,
+            "serotonin": 0.5083322335357262,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.21864032650204604,
+            "serotonin": 0.5499633179063813,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.27328647177496185,
+            "serotonin": 0.699421091281919,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.324718063896342,
+            "serotonin": 0.7927223698909559,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.45
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.5
+        },
+        {
+          "chemical": "gaba",
+          "delta": -0.2
+        }
+      ],
+      "personality": "default",
+      "script": "unsourced_shock",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.6,
+            "cortisol": 0.65,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.2,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5983080448254584,
+            "cortisol": 0.6472913877291926,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.20000379304112775,
+            "oxytocin": 0.2,
+            "serotonin": 0.49865002599276903,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5832637203773463,
+            "cortisol": 0.6233863289737714,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.2000345718294384,
+            "oxytocin": 0.2,
+            "serotonin": 0.4867359190923428,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5216554334045453,
+            "cortisol": 0.5315707617391219,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.20013391327679556,
+            "oxytocin": 0.2,
+            "serotonin": 0.44098157466777077,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.27965127741806,
+            "cortisol": 0.27195690151839924,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.2004563379570157,
+            "oxytocin": 0.2,
+            "serotonin": 0.31175620302640983,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10821063371431856,
+            "cortisol": 0.20029407551908449,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.2025222278154812,
+            "oxytocin": 0.2,
+            "serotonin": 0.2769797181218439,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.4,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10000000028573734,
+            "cortisol": 0.20000000000000046,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.21972394935020434,
+            "oxytocin": 0.2,
+            "serotonin": 0.28193017397144643,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "dopamine",
+          "delta": 0.5,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.4,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "endorphins",
+          "delta": 0.35,
+          "source_id": "fx:lottery"
+        }
+      ],
+      "personality": "cheerful",
+      "script": "lottery_win",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4076923076923077,
+            "cortisol": 0.2,
+            "dopamine": 0.9,
+            "endorphins": 0.51875,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4054977203596951,
+            "cortisol": 0.2,
+            "dopamine": 0.8999711197015805,
+            "endorphins": 0.5187415764985353,
+            "gaba": 0.4479238765543137,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.38648615583628604,
+            "cortisol": 0.2,
+            "dopamine": 0.8997112720706905,
+            "endorphins": 0.5186657795803884,
+            "gaba": 0.4302187187876198,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.3206128871833039,
+            "cortisol": 0.2,
+            "dopamine": 0.8985580266672946,
+            "endorphins": 0.5183292220321689,
+            "gaba": 0.3752335886161604,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.16061092707206076,
+            "cortisol": 0.2,
+            "dopamine": 0.8914102992726252,
+            "endorphins": 0.5162374419521963,
+            "gaba": 0.2851122973948612,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10106409303575781,
+            "cortisol": 0.2,
+            "dopamine": 0.8665164957684021,
+            "endorphins": 0.5088716008554057,
+            "gaba": 0.26828771502105003,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10000000000031516,
+            "cortisol": 0.2,
+            "dopamine": 0.7535533905932676,
+            "endorphins": 0.4736219900590321,
+            "gaba": 0.28403828186254854,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.3,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "dopamine",
+          "delta": -0.25,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "serotonin",
+          "delta": -0.2,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "gaba",
+          "delta": 0.2,
+          "duration_seconds": 300.0,
+          "source_id": "fx:rain"
+        }
+      ],
+      "personality": "cheerful",
+      "script": "grief_with_ambient_rain",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.5,
+            "dopamine": 0.20769230769230773,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.475,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.49819425848612836,
+            "dopamine": 0.2077034154993922,
+            "endorphins": 0.3,
+            "gaba": 0.45006666538307316,
+            "oxytocin": 0.2,
+            "serotonin": 0.4741006190173254,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.4822575526491809,
+            "dopamine": 0.20780335689588839,
+            "endorphins": 0.3,
+            "gaba": 0.45066657553767947,
+            "oxytocin": 0.2,
+            "serotonin": 0.46616329615269403,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.42104717449274776,
+            "dopamine": 0.2082469128202714,
+            "endorphins": 0.3,
+            "gaba": 0.4533315740995608,
+            "oxytocin": 0.2,
+            "serotonin": 0.43568446400487093,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2479712676789329,
+            "dopamine": 0.21099603874129816,
+            "endorphins": 0.3,
+            "gaba": 0.4699413939816977,
+            "oxytocin": 0.2,
+            "serotonin": 0.34968451216070223,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.20019605034605628,
+            "dopamine": 0.22057057855061477,
+            "endorphins": 0.3,
+            "gaba": 0.5290790790633794,
+            "oxytocin": 0.2,
+            "serotonin": 0.32703975910403654,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.20000000000000046,
+            "dopamine": 0.26401792669489765,
+            "endorphins": 0.3,
+            "gaba": 0.6334174815295123,
+            "oxytocin": 0.2,
+            "serotonin": 0.33317862333676423,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "serotonin",
+          "delta": 0.3,
+          "duration_seconds": 180.0,
+          "source_id": "fx:sun"
+        },
+        {
+          "chemical": "oxytocin",
+          "delta": 0.15,
+          "duration_seconds": 240.0
+        }
+      ],
+      "personality": "cheerful",
+      "script": "sustained_only",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2000624975932853,
+            "serotonin": 0.6001666658644149,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.20062482914633042,
+            "serotonin": 0.601666609707754,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.203121702542189,
+            "serotonin": 0.6083322335357262,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.21864032650204604,
+            "serotonin": 0.6499633179063813,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.27328647177496185,
+            "serotonin": 0.799421091281919,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.324718063896342,
+            "serotonin": 0.8927223698909559,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.45
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.5
+        },
+        {
+          "chemical": "gaba",
+          "delta": -0.2
+        }
+      ],
+      "personality": "cheerful",
+      "script": "unsourced_shock",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.6,
+            "cortisol": 0.65,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5979331892033206,
+            "cortisol": 0.6472913877291926,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.24962893741898992,
+            "oxytocin": 0.2,
+            "serotonin": 0.5986500259927691,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5796793253722168,
+            "cortisol": 0.6233863289737714,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.2464926108197693,
+            "oxytocin": 0.2,
+            "serotonin": 0.5867359190923427,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.507957365425284,
+            "cortisol": 0.5315707617391219,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.23746628288586039,
+            "oxytocin": 0.2,
+            "serotonin": 0.5409815746677706,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.2552159300416772,
+            "cortisol": 0.27195690151839924,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.22718678921310412,
+            "oxytocin": 0.2,
+            "serotonin": 0.4117562030264099,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10496242992037715,
+            "cortisol": 0.20029407551908449,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.2286181476839661,
+            "oxytocin": 0.2,
+            "serotonin": 0.376979718121844,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.1,
+            "cortisol": 0.2,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.45,
+            "oxytocin": 0.2,
+            "serotonin": 0.6,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.10000000002350912,
+            "cortisol": 0.20000000000000046,
+            "dopamine": 0.4,
+            "endorphins": 0.3,
+            "gaba": 0.24799559290146617,
+            "oxytocin": 0.2,
+            "serotonin": 0.3819301739714465,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "dopamine",
+          "delta": 0.5,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.4,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "endorphins",
+          "delta": 0.35,
+          "source_id": "fx:lottery"
+        }
+      ],
+      "personality": "stoic",
+      "script": "lottery_win",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.3876923076923077,
+            "cortisol": 0.15,
+            "dopamine": 0.8,
+            "endorphins": 0.41875,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.38558569207979665,
+            "cortisol": 0.15,
+            "dopamine": 0.7999711197015804,
+            "endorphins": 0.4187415764985353,
+            "gaba": 0.5980626045485531,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.367248781707999,
+            "cortisol": 0.15,
+            "dopamine": 0.7997112720706904,
+            "endorphins": 0.4186657795803884,
+            "gaba": 0.5813878912737128,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.30178924466916385,
+            "cortisol": 0.15,
+            "dopamine": 0.7985580266672945,
+            "endorphins": 0.418329222032169,
+            "gaba": 0.5263005270669184,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.13732628839249056,
+            "cortisol": 0.15,
+            "dopamine": 0.7914102992726251,
+            "endorphins": 0.4162374419521969,
+            "gaba": 0.4204238403374125,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08075726101236175,
+            "cortisol": 0.15,
+            "dopamine": 0.766516495768402,
+            "endorphins": 0.40887160085540625,
+            "gaba": 0.3974098981446583,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08000000000005564,
+            "cortisol": 0.15,
+            "dopamine": 0.6535533905932676,
+            "endorphins": 0.3736219900590334,
+            "gaba": 0.41499223755458764,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.3,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "dopamine",
+          "delta": -0.25,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "serotonin",
+          "delta": -0.2,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "gaba",
+          "delta": 0.2,
+          "duration_seconds": 300.0,
+          "source_id": "fx:rain"
+        }
+      ],
+      "personality": "stoic",
+      "script": "grief_with_ambient_rain",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.44999999999999996,
+            "dopamine": 0.1076923076923077,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.375,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.44873281012858013,
+            "dopamine": 0.10770341549939215,
+            "endorphins": 0.2,
+            "gaba": 0.6000666653830731,
+            "oxytocin": 0.2,
+            "serotonin": 0.3743706168512249,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.43748382465809804,
+            "dopamine": 0.10780335689588834,
+            "endorphins": 0.2,
+            "gaba": 0.6006665755376793,
+            "oxytocin": 0.2,
+            "serotonin": 0.36878367547085844,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.3923577161285383,
+            "dopamine": 0.10824691282027135,
+            "endorphins": 0.2,
+            "gaba": 0.6033315740995602,
+            "oxytocin": 0.2,
+            "serotonin": 0.3463763993979445,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.23336395947479238,
+            "dopamine": 0.11099603874129804,
+            "endorphins": 0.2,
+            "gaba": 0.6199413939816946,
+            "oxytocin": 0.2,
+            "serotonin": 0.26757214140576047,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15178836297927278,
+            "dopamine": 0.12057057855061472,
+            "endorphins": 0.2,
+            "gaba": 0.6790790790633708,
+            "oxytocin": 0.2,
+            "serotonin": 0.22815458218330542,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15000000000225772,
+            "dopamine": 0.16401792669489765,
+            "endorphins": 0.2,
+            "gaba": 0.7834174815295041,
+            "oxytocin": 0.2,
+            "serotonin": 0.2334937692405777,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "serotonin",
+          "delta": 0.3,
+          "duration_seconds": 180.0,
+          "source_id": "fx:sun"
+        },
+        {
+          "chemical": "oxytocin",
+          "delta": 0.15,
+          "duration_seconds": 240.0
+        }
+      ],
+      "personality": "stoic",
+      "script": "sustained_only",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2000624975932853,
+            "serotonin": 0.5001666658644149,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.20062482914633042,
+            "serotonin": 0.501666609707754,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.203121702542189,
+            "serotonin": 0.5083322335357262,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.21864032650204604,
+            "serotonin": 0.5499633179063813,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.27328647177496185,
+            "serotonin": 0.699421091281919,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.324718063896342,
+            "serotonin": 0.7927223698909559,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.45
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.5
+        },
+        {
+          "chemical": "gaba",
+          "delta": -0.2
+        }
+      ],
+      "personality": "stoic",
+      "script": "unsourced_shock",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.58,
+            "cortisol": 0.6,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.39999999999999997,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5776261519603901,
+            "cortisol": 0.5980992151928702,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.3989543878334382,
+            "oxytocin": 0.2,
+            "serotonin": 0.4990550227436182,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.5567776083875288,
+            "cortisol": 0.5812257369871471,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.39001124588192404,
+            "oxytocin": 0.2,
+            "serotonin": 0.49066648806958935,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4775712882339383,
+            "cortisol": 0.5135365741928075,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.3618315691701118,
+            "oxytocin": 0.2,
+            "serotonin": 0.45701947775738083,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.22400372943404093,
+            "cortisol": 0.2750459392121887,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.31719342152370356,
+            "oxytocin": 0.2,
+            "serotonin": 0.3385876468939975,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.0844894601319674,
+            "cortisol": 0.15268254446890922,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.31216763685508603,
+            "oxytocin": 0.2,
+            "serotonin": 0.2786519527407476,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.08,
+            "cortisol": 0.15,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.6,
+            "oxytocin": 0.2,
+            "serotonin": 0.5,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.08000000002163027,
+            "cortisol": 0.15000000000338656,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.33727425624584356,
+            "oxytocin": 0.2,
+            "serotonin": 0.28240289282716574,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "dopamine",
+          "delta": 0.5,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.4,
+          "source_id": "fx:lottery"
+        },
+        {
+          "chemical": "endorphins",
+          "delta": 0.35,
+          "source_id": "fx:lottery"
+        }
+      ],
+      "personality": "anxious",
+      "script": "lottery_win",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.45769230769230773,
+            "cortisol": 0.35,
+            "dopamine": 0.8,
+            "endorphins": 0.41875,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.45607442131683024,
+            "cortisol": 0.35,
+            "dopamine": 0.7999711197015804,
+            "endorphins": 0.4187415764985353,
+            "gaba": 0.24850057751144877,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.4420272089036016,
+            "cortisol": 0.35,
+            "dopamine": 0.7997112720706904,
+            "endorphins": 0.4186657795803884,
+            "gaba": 0.23575178533900132,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.39237303608070245,
+            "cortisol": 0.35,
+            "dopamine": 0.7985580266672945,
+            "endorphins": 0.418329222032169,
+            "gaba": 0.1970624539836923,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.25126195825153086,
+            "cortisol": 0.35,
+            "dopamine": 0.7914102992726251,
+            "endorphins": 0.4162374419521969,
+            "gaba": 0.1400496750650813,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15691383807410658,
+            "cortisol": 0.35,
+            "dopamine": 0.766516495768402,
+            "endorphins": 0.40887160085540625,
+            "gaba": 0.13052932610067036,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1500000035135386,
+            "cortisol": 0.35,
+            "dopamine": 0.6535533905932676,
+            "endorphins": 0.3736219900590334,
+            "gaba": 0.1382231529207238,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.3,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "dopamine",
+          "delta": -0.25,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "serotonin",
+          "delta": -0.2,
+          "source_id": "fx:grief"
+        },
+        {
+          "chemical": "gaba",
+          "delta": 0.2,
+          "duration_seconds": 300.0,
+          "source_id": "fx:rain"
+        }
+      ],
+      "personality": "anxious",
+      "script": "grief_with_ambient_rain",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.6499999999999999,
+            "dopamine": 0.1076923076923077,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.275,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.6476561792432298,
+            "dopamine": 0.10770341549939215,
+            "endorphins": 0.2,
+            "gaba": 0.2500666656792848,
+            "oxytocin": 0.2,
+            "serotonin": 0.27383061670690534,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.6270908908552119,
+            "dopamine": 0.10780335689588834,
+            "endorphins": 0.2,
+            "gaba": 0.25066659656619766,
+            "oxytocin": 0.2,
+            "serotonin": 0.2635704443263854,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.5514588567644138,
+            "dopamine": 0.10824691282027135,
+            "endorphins": 0.2,
+            "gaba": 0.25333197997188905,
+            "oxytocin": 0.2,
+            "serotonin": 0.2258461944442175,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.37747654304316014,
+            "dopamine": 0.11099603874129804,
+            "endorphins": 0.2,
+            "gaba": 0.26995489826591484,
+            "oxytocin": 0.2,
+            "serotonin": 0.13927488619222628,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35002109379421664,
+            "dopamine": 0.12057057855061472,
+            "endorphins": 0.2,
+            "gaba": 0.3292903408136177,
+            "oxytocin": 0.2,
+            "serotonin": 0.12674765590719522,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35000000000000064,
+            "dopamine": 0.16401792669489765,
+            "endorphins": 0.2,
+            "gaba": 0.43711321288522953,
+            "oxytocin": 0.2,
+            "serotonin": 0.13297845265540778,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "serotonin",
+          "delta": 0.3,
+          "duration_seconds": 180.0,
+          "source_id": "fx:sun"
+        },
+        {
+          "chemical": "oxytocin",
+          "delta": 0.15,
+          "duration_seconds": 240.0
+        }
+      ],
+      "personality": "anxious",
+      "script": "sustained_only",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2000624975932853,
+            "serotonin": 0.4001666658644149,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.20062482914633042,
+            "serotonin": 0.4016666097077539,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.203121702542189,
+            "serotonin": 0.4083322335357262,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.21864032650204604,
+            "serotonin": 0.4499633179063811,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.27328647177496185,
+            "serotonin": 0.5994210912819193,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.324718063896342,
+            "serotonin": 0.6927223698909563,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    },
+    {
+      "impulses": [
+        {
+          "chemical": "cortisol",
+          "delta": 0.45
+        },
+        {
+          "chemical": "adrenaline",
+          "delta": 0.5
+        },
+        {
+          "chemical": "gaba",
+          "delta": -0.2
+        }
+      ],
+      "personality": "anxious",
+      "script": "unsourced_shock",
+      "snapshots": [
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.65,
+            "cortisol": 0.8,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.04999999999999999,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "t": 0.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.35009999999999997,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.6493201550051664,
+            "cortisol": 0.7964842688648449,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.050002962145502296,
+            "oxytocin": 0.2,
+            "serotonin": 0.39824502252713884,
+            "testosterone": 0.3
+          },
+          "t": 0.1
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.351,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.6432337207282172,
+            "cortisol": 0.7656588702282338,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.0500296194808822,
+            "oxytocin": 0.2,
+            "serotonin": 0.382857889776535,
+            "testosterone": 0.3
+          },
+          "t": 1.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.3535,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.6170372683353211,
+            "cortisol": 0.6529259518630671,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.05014805354522461,
+            "oxytocin": 0.2,
+            "serotonin": 0.3265923713194214,
+            "testosterone": 0.3
+          },
+          "t": 5.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.3535,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.48136505213059944,
+            "cortisol": 0.3943380658301146,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.05088667890418407,
+            "oxytocin": 0.2,
+            "serotonin": 0.19769942957164155,
+            "testosterone": 0.3
+          },
+          "t": 30.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.3535,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.24349700185639328,
+            "cortisol": 0.3535313514606068,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.05352319926574808,
+            "oxytocin": 0.2,
+            "serotonin": 0.17827971822783156,
+            "testosterone": 0.3
+          },
+          "t": 120.0
+        },
+        {
+          "baselines": {
+            "adrenaline": 0.15,
+            "cortisol": 0.3535,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.25,
+            "oxytocin": 0.2,
+            "serotonin": 0.4,
+            "testosterone": 0.3
+          },
+          "levels": {
+            "adrenaline": 0.1500509899408531,
+            "cortisol": 0.35350000000000065,
+            "dopamine": 0.3,
+            "endorphins": 0.2,
+            "gaba": 0.0670061870233171,
+            "oxytocin": 0.2,
+            "serotonin": 0.18332851450499235,
+            "testosterone": 0.3
+          },
+          "t": 600.0
+        }
+      ]
+    }
+  ]
+}
